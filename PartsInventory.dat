@@ -1,0 +1,13 @@
+011, Winter Tire, 119.99, 24, -
+012, Tire, 89.99, 16, -
+013, Car Engine, 3500.00, 1, -
+014, Car Battery, 350.00, 2, -
+015, Toyota Soluna Hood, 149.99, 1, 001
+016, Toyota Prius Hood, 179.99, 0, 002
+017, Ford Mondeo Hood, 129.99, 0, 003
+018, Ford Galaxy Hood, 199.99, 1, 004
+019, Toyota Soluna Bumper, 129.99, 1, 001
+020, Toyota Prius Bumper, 159.99, 0, 002
+021, Ford Mondeo Bumper, 99.99, 0, 003
+022, Ford Galaxy Bumper, 139.99, 1, 004
+
